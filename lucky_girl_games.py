@@ -5,7 +5,7 @@ import os
 import math
 
 # ── Page config ──────────────────────────────────────────────────────────────
-st.set_page_config(page_title="💖 Lucky Girl Games", page_icon="🌸",
+st.set_page_config(page_title="💖 TP  Girl Games", page_icon="🌸",
                    layout="wide", initial_sidebar_state="expanded")
 
 # ── CSS ──────────────────────────────────────────────────────────────────────
@@ -905,7 +905,7 @@ def _next_turn(rolled_six):
 # ════════════════════════════════════════════════════════════════════════════
 def main():
     with st.sidebar:
-        st.markdown("# 💖 Lucky Girl Games")
+        st.markdown("# 💖 TP Girl Games")
         st.markdown("*your girly game hub* 🌸")
         st.markdown("---")
         game = st.radio("Choose a game:", [
