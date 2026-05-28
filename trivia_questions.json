@@ -1,0 +1,879 @@
+[
+  {
+    "category": "Science",
+    "question": "What is the chemical symbol for gold?",
+    "options": ["Go", "Gd", "Au", "Ag"],
+    "answer": "Au"
+  },
+  {
+    "category": "Science",
+    "question": "What is the powerhouse of the cell?",
+    "options": ["Nucleus", "Mitochondria", "Ribosome", "Golgi Body"],
+    "answer": "Mitochondria"
+  },
+  {
+    "category": "Science",
+    "question": "What planet is closest to the Sun?",
+    "options": ["Venus", "Mars", "Mercury", "Earth"],
+    "answer": "Mercury"
+  },
+  {
+    "category": "Science",
+    "question": "What gas do plants absorb from the atmosphere during photosynthesis?",
+    "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Hydrogen"],
+    "answer": "Carbon Dioxide"
+  },
+  {
+    "category": "Science",
+    "question": "What is the atomic number of Carbon?",
+    "options": ["4", "6", "8", "12"],
+    "answer": "6"
+  },
+  {
+    "category": "Science",
+    "question": "Which part of the human body produces insulin?",
+    "options": ["Liver", "Kidney", "Pancreas", "Thyroid"],
+    "answer": "Pancreas"
+  },
+  {
+    "category": "Science",
+    "question": "What is the speed of light (approximately)?",
+    "options": ["300,000 km/s", "150,000 km/s", "500,000 km/s", "1,000,000 km/s"],
+    "answer": "300,000 km/s"
+  },
+  {
+    "category": "Science",
+    "question": "What is the most abundant gas in Earth's atmosphere?",
+    "options": ["Oxygen", "Carbon Dioxide", "Argon", "Nitrogen"],
+    "answer": "Nitrogen"
+  },
+  {
+    "category": "Science",
+    "question": "Which scientist developed the theory of general relativity?",
+    "options": ["Isaac Newton", "Albert Einstein", "Nikola Tesla", "Stephen Hawking"],
+    "answer": "Albert Einstein"
+  },
+  {
+    "category": "Science",
+    "question": "How many bones are in the adult human body?",
+    "options": ["196", "206", "216", "226"],
+    "answer": "206"
+  },
+  {
+    "category": "Science",
+    "question": "What is the chemical formula of water?",
+    "options": ["HO", "H2O", "H3O", "OH2"],
+    "answer": "H2O"
+  },
+  {
+    "category": "Science",
+    "question": "Which blood type is known as the universal donor?",
+    "options": ["A+", "B-", "O-", "AB+"],
+    "answer": "O-"
+  },
+  {
+    "category": "Science",
+    "question": "What force keeps planets in orbit around the Sun?",
+    "options": ["Magnetism", "Gravity", "Friction", "Nuclear Force"],
+    "answer": "Gravity"
+  },
+  {
+    "category": "Science",
+    "question": "What is the hardest natural substance on Earth?",
+    "options": ["Gold", "Iron", "Diamond", "Platinum"],
+    "answer": "Diamond"
+  },
+  {
+    "category": "Science",
+    "question": "Which organ in the human body filters blood?",
+    "options": ["Heart", "Liver", "Spleen", "Kidneys"],
+    "answer": "Kidneys"
+  },
+  {
+    "category": "Science",
+    "question": "What type of energy does the Sun primarily emit?",
+    "options": ["Chemical Energy", "Nuclear Energy", "Electromagnetic Radiation", "Kinetic Energy"],
+    "answer": "Electromagnetic Radiation"
+  },
+  {
+    "category": "Science",
+    "question": "What is the pH of pure water?",
+    "options": ["5", "6", "7", "8"],
+    "answer": "7"
+  },
+  {
+    "category": "Science",
+    "question": "What is the nucleus of an atom made of?",
+    "options": ["Electrons and neutrons", "Protons and electrons", "Protons and neutrons", "Quarks only"],
+    "answer": "Protons and neutrons"
+  },
+  {
+    "category": "Science",
+    "question": "Which vitamin is produced by the skin when exposed to sunlight?",
+    "options": ["Vitamin A", "Vitamin C", "Vitamin D", "Vitamin K"],
+    "answer": "Vitamin D"
+  },
+  {
+    "category": "Science",
+    "question": "What is the name of the longest bone in the human body?",
+    "options": ["Tibia", "Humerus", "Femur", "Fibula"],
+    "answer": "Femur"
+  },
+  {
+    "category": "Science",
+    "question": "What is the rarest blood type?",
+    "options": ["A+", "O-", "AB-", "B+"],
+    "answer": "AB-"
+  },
+  {
+    "category": "Science",
+    "question": "Which element is liquid at room temperature (besides mercury)?",
+    "options": ["Bromine", "Chlorine", "Fluorine", "Iodine"],
+    "answer": "Bromine"
+  },
+  {
+    "category": "Science",
+    "question": "What layer of the atmosphere contains the ozone layer?",
+    "options": ["Troposphere", "Stratosphere", "Mesosphere", "Thermosphere"],
+    "answer": "Stratosphere"
+  },
+  {
+    "category": "Science",
+    "question": "What is the unit of electrical resistance?",
+    "options": ["Volt", "Ampere", "Watt", "Ohm"],
+    "answer": "Ohm"
+  },
+  {
+    "category": "Science",
+    "question": "Which planet has the most moons?",
+    "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+    "answer": "Saturn"
+  },
+  {
+    "category": "Girly & Pop Culture",
+    "question": "Which gem is rose-pink and associated with love and compassion?",
+    "options": ["Ruby", "Sapphire", "Rose Quartz", "Amethyst"],
+    "answer": "Rose Quartz"
+  },
+  {
+    "category": "Girly & Pop Culture",
+    "question": "Flamingos get their pink colour from what?",
+    "options": ["Genetics", "Carotenoids in food", "Sun exposure", "Age"],
+    "answer": "Carotenoids in food"
+  },
+  {
+    "category": "Girly & Pop Culture",
+    "question": "In Legally Blonde, what is Elle Woods' dog's name?",
+    "options": ["Bruiser", "Biscuit", "Bubbles", "Bella"],
+    "answer": "Bruiser"
+  },
+  {
+    "category": "Girly & Pop Culture",
+    "question": "Which fruit is also called the Pink Lady?",
+    "options": ["Strawberry", "Apple", "Guava", "Watermelon"],
+    "answer": "Apple"
+  },
+  {
+    "category": "Girly & Pop Culture",
+    "question": "Which flower is nicknamed the Queen of Flowers?",
+    "options": ["Lily", "Tulip", "Rose", "Peony"],
+    "answer": "Rose"
+  },
+  {
+    "category": "Girly & Pop Culture",
+    "question": "Taylor Swift's album Fearless won Album of the Year at which awards show?",
+    "options": ["VMAs", "Billboard Awards", "Grammy Awards", "AMAs"],
+    "answer": "Grammy Awards"
+  },
+  {
+    "category": "Girly & Pop Culture",
+    "question": "What is the name of Barbie's boyfriend?",
+    "options": ["Chad", "Ken", "Brad", "Ryan"],
+    "answer": "Ken"
+  },
+  {
+    "category": "Girly & Pop Culture",
+    "question": "Which candy is shaped like a heart and says Be Mine?",
+    "options": ["Gummy Bears", "Conversation Hearts", "Skittles", "M&Ms"],
+    "answer": "Conversation Hearts"
+  },
+  {
+    "category": "Girly & Pop Culture",
+    "question": "In Mean Girls, what day is it when you wear pink?",
+    "options": ["Monday", "Tuesday", "Wednesday", "Friday"],
+    "answer": "Wednesday"
+  },
+  {
+    "category": "Girly & Pop Culture",
+    "question": "Which singer is nicknamed Queen Bey?",
+    "options": ["Rihanna", "Beyonce", "Nicki Minaj", "Cardi B"],
+    "answer": "Beyonce"
+  },
+  {
+    "category": "Girly & Pop Culture",
+    "question": "What color is Cinderella's iconic ball gown in the Disney classic?",
+    "options": ["Pink", "Yellow", "Blue", "White"],
+    "answer": "Blue"
+  },
+  {
+    "category": "Girly & Pop Culture",
+    "question": "Which reality TV show features contestants competing to find love on an island?",
+    "options": ["The Bachelor", "Love Island", "Too Hot to Handle", "Are You the One"],
+    "answer": "Love Island"
+  },
+  {
+    "category": "Girly & Pop Culture",
+    "question": "What is the name of Ariana Grande's famous high ponytail era?",
+    "options": ["She always had it", "It started in 2013", "It started in 2016", "It was only for a music video"],
+    "answer": "It started in 2013"
+  },
+  {
+    "category": "General Knowledge",
+    "question": "What is the capital of France?",
+    "options": ["London", "Berlin", "Paris", "Rome"],
+    "answer": "Paris"
+  },
+  {
+    "category": "General Knowledge",
+    "question": "How many continents are there on Earth?",
+    "options": ["5", "6", "7", "8"],
+    "answer": "7"
+  },
+  {
+    "category": "General Knowledge",
+    "question": "What is the largest ocean on Earth?",
+    "options": ["Atlantic", "Indian", "Arctic", "Pacific"],
+    "answer": "Pacific"
+  },
+  {
+    "category": "General Knowledge",
+    "question": "What year did World War II end?",
+    "options": ["1943", "1944", "1945", "1946"],
+    "answer": "1945"
+  },
+  {
+    "category": "General Knowledge",
+    "question": "Which country has the largest population in the world?",
+    "options": ["USA", "India", "China", "Brazil"],
+    "answer": "India"
+  },
+  {
+    "category": "General Knowledge",
+    "question": "What is the currency of Japan?",
+    "options": ["Won", "Yuan", "Yen", "Ringgit"],
+    "answer": "Yen"
+  },
+  {
+    "category": "General Knowledge",
+    "question": "Who painted the Mona Lisa?",
+    "options": ["Michelangelo", "Raphael", "Leonardo da Vinci", "Caravaggio"],
+    "answer": "Leonardo da Vinci"
+  },
+  {
+    "category": "General Knowledge",
+    "question": "What is the tallest mountain in the world?",
+    "options": ["K2", "Kangchenjunga", "Mount Everest", "Lhotse"],
+    "answer": "Mount Everest"
+  },
+  {
+    "category": "Organic Chemistry",
+    "question": "Which rule dictates that in an electrophilic addition reaction of an unsymmetrical alkene, the hydrogen atom adds to the carbon with the greater number of hydrogen atoms?",
+    "options": ["Markovnikov's Rule", "Zaitsev's Rule", "Hund's Rule", "Hoffmann's Rule"],
+    "answer": "Markovnikov's Rule"
+  },
+  {
+    "category": "Quantum Mechanics",
+    "question": "What mathematical operator represents the total energy of a quantum system in the Schrödinger equation?",
+    "options": ["Hamiltonian", "Lagrangian", "Laplacian", "Hermitian"],
+    "answer": "Hamiltonian"
+  },
+  {
+    "category": "Astrophysics",
+    "question": "What is the name of the radius around a non-rotating black hole where the escape velocity exactly equals the speed of light?",
+    "options": ["Schwarzschild Radius", "Chandrasekhar Limit", "Hawking Boundary", "Kerr Horizon"],
+    "answer": "Schwarzschild Radius"
+  },
+  {
+    "category": "Molecular Biology",
+    "question": "Which enzyme is responsible for synthesizing short RNA primers during DNA replication?",
+    "options": ["Primase", "Topoisomerase", "Helicase", "Ligase"],
+    "answer": "Primase"
+  },
+  {
+    "category": "Thermodynamics",
+    "question": "Which thermodynamic potential is minimized when a system reaches chemical equilibrium at constant temperature and pressure?",
+    "options": ["Gibbs Free Energy", "Helmholtz Free Energy", "Enthalpy", "Internal Energy"],
+    "answer": "Gibbs Free Energy"
+  },
+  {
+    "category": "Particle Physics",
+    "question": "Which gauge boson is the force carrier for the strong nuclear force?",
+    "options": ["Gluon", "W boson", "Z boson", "Photon"],
+    "answer": "Gluon"
+  },
+  {
+    "category": "Genetics",
+    "question": "What type of chromosomal mutation involves the reversal of the direction of a linear segment of a chromosome?",
+    "options": ["Inversion", "Translocation", "Duplication", "Non-disjunction"],
+    "answer": "Inversion"
+  },
+  {
+    "category": "Geology",
+    "question": "What is the dominant mineral component of the Earth's upper mantle?",
+    "options": ["Olivine", "Quartz", "Orthoclase", "Biotite"],
+    "answer": "Olivine"
+  },
+  {
+    "category": "Inorganic Chemistry",
+    "question": "What is the coordination geometry of the central iron atom in a pristine ferrocyanide complex, [Fe(CN)6]4-?",
+    "options": ["Octahedral", "Tetrahedral", "Square Planar", "Trigonal Bipyramidal"],
+    "answer": "Octahedral"
+  },
+  {
+    "category": "Neurobiology",
+    "question": "Which neurotransmitter is primarily utilized by postganglionic neurons in the parasympathetic nervous system?",
+    "options": ["Acetylcholine", "Norepinephrine", "Dopamine", "Serotonin"],
+    "answer": "Acetylcholine"
+  },
+  {
+    "category": "Fluid Mechanics",
+    "question": "What dimensionless quantity describes the ratio of inertial forces to viscous forces in a fluid flow?",
+    "options": ["Reynolds Number", "Froude Number", "Mach Number", "Nusselt Number"],
+    "answer": "Reynolds Number"
+  },
+  {
+    "category": "Analytical Chemistry",
+    "question": "In nuclear magnetic resonance (NMR) spectroscopy, what standard reference compound is typically assigned a chemical shift of 0 ppm?",
+    "options": ["Tetramethylsilane", "Deuterated Chloroform", "Dimethyl Sulfoxide", "Benzene"],
+    "answer": "Tetramethylsilane"
+  },
+  {
+    "category": "Evolutionary Biology",
+    "question": "What evolutionary pattern describes rapid speciation bursts separated by long periods of stasis?",
+    "options": ["Punctuated Equilibrium", "Phletic Gradualism", "Anagenesis", "Convergent Evolution"],
+    "answer": "Punctuated Equilibrium"
+  },
+  {
+    "category": "Condensed Matter Physics",
+    "question": "What type of quasiparticle represents a quantized collective excitation of atomic vibrations in a crystal lattice?",
+    "options": ["Phonon", "Exciton", "Plasmon", "Magnon"],
+    "answer": "Phonon"
+  },
+  {
+    "category": "Biochemistry",
+    "question": "Which enzyme catalyzes the final, rate-limiting step of glycolysis?",
+    "options": ["Pyruvate Kinase", "Phosphofructokinase-1", "Hexokinase", "Aldolase"],
+    "answer": "Phosphofructokinase-1"
+  },
+  {
+    "category": "Immunology",
+    "question": "Which class of immunoglobulins is capable of crossing the human placenta to provide passive immunity to the fetus?",
+    "options": ["IgG", "IgM", "IgA", "IgE"],
+    "answer": "IgG"
+  },
+  {
+    "category": "Cell Biology",
+    "question": "Which organelle is responsible for the beta-oxidation of very-long-chain fatty acids (VLCFAs)?",
+    "options": ["Peroxisome", "Mitochondrion", "Lysosome", "Golgi Apparatus"],
+    "answer": "Peroxisome"
+  },
+  {
+    "category": "Optics",
+    "question": "What optical phenomenon describes the splitting of a light ray into two perpendicular polarized rays when passing through an anisotropic material?",
+    "options": ["Birefringence", "Diffraction", "Total Internal Reflection", "Dispersion"],
+    "answer": "Birefringence"
+  },
+  {
+    "category": "Virology",
+    "question": "Which enzyme do retroviruses use to synthesize complementary DNA (cDNA) from an RNA template?",
+    "options": ["Reverse Transcriptase", "RNA Polymerase II", "DNA Ligase", "Integrase"],
+    "answer": "Reverse Transcriptase"
+  },
+  {
+    "category": "Inorganic Chemistry",
+    "question": "Which d-block element exhibits the highest possible formal oxidation state of +8 in compounds like its tetroxide?",
+    "options": ["Osmium", "Iron", "Rhenium", "Platinum"],
+    "answer": "Osmium"
+  },
+  {
+    "category": "Cosmology",
+    "question": "What cosmic metric indicates that the expansion of the universe is accelerating, attributed to dark energy?",
+    "options": ["Cosmological Constant", "Hubble Constant", "Deceleration Parameter", "Critical Density"],
+    "answer": "Cosmological Constant"
+  },
+  {
+    "category": "Plant Physiology",
+    "question": "Which plant hormone is primarily responsible for inducing seed dormancy and regulating stomatal closure during drought?",
+    "options": ["Abscisic Acid", "Gibberellin", "Auxin", "Ethylene"],
+    "answer": "Abscisic Acid"
+  },
+  {
+    "category": "Physical Chemistry",
+    "question": "What does the 'p' stand for in the context of the operational definition of pH?",
+    "options": ["Potenz", "Percent", "Partial", "Proton"],
+    "answer": "Potenz"
+  },
+  {
+    "category": "Electromagnetism",
+    "question": "Which of Maxwell's equations explicitly states that magnetic monopoles do not exist?",
+    "options": ["Gauss's Law for Magnetism", "Gauss's Law for Electricity", "Faraday's Law", "Ampere's Law"],
+    "answer": "Gauss's Law for Magnetism"
+  },
+  {
+    "category": "Endocrinology",
+    "question": "Which hormone, secreted by the parafollicular cells of the thyroid gland, acts to lower blood calcium levels?",
+    "options": ["Calcitonin", "Parathyroid Hormone", "Thyroxine", "Triiodothyronine"],
+    "answer": "Calcitonin"
+  },
+  {
+    "category": "Statistical Mechanics",
+    "question": "Which distribution law models the energy states of identical, indistinguishable particles with half-integer spin that obey the Pauli Exclusion Principle?",
+    "options": ["Fermi-Dirac Statistics", "Bose-Einstein Statistics", "Maxwell-Boltzmann Distribution", "Planck Distribution"],
+    "answer": "Fermi-Dirac Statistics"
+  },
+  {
+    "category": "Microbiology",
+    "question": "What structural component uniquely distinguishes the cell wall of Gram-positive bacteria from Gram-negative bacteria by its sheer thickness?",
+    "options": ["Peptidoglycan", "Lipopolysaccharide", "Teichoic Acid", "Porins"],
+    "answer": "Peptidoglycan"
+  },
+  {
+    "category": "Analytical Chemistry",
+    "question": "What type of chromatography separates proteins strictly on the basis of their molecular weight or hydrodynamic volume?",
+    "options": ["Size-Exclusion Chromatography", "Ion-Exchange Chromatography", "Affinity Chromatography", "Reverse-Phase Chromatography"],
+    "answer": "Size-Exclusion Chromatography"
+  },
+  {
+    "category": "Plasma Physics",
+    "question": "What is the name of the fundamental frequency at which electrons oscillate relative to ions in a quasi-neutral plasma?",
+    "options": ["Plasma Frequency", "Larmor Frequency", "Cyclotron Frequency", "Alfvén Frequency"],
+    "answer": "Plasma Frequency"
+  },
+  {
+    "category": "Toxicology",
+    "question": "What enzyme does cyanide bind to and inhibit, effectively halting the mitochondrial electron transport chain?",
+    "options": ["Cytochrome c Oxidase", "NADH Dehydrogenase", "ATP Synthase", "Succinate Dehydrogenase"],
+    "answer": "Cytochrome c Oxidase"
+  },
+  {
+    "category": "Meteorology",
+    "question": "What atmospheric boundary layer represents the transition zone between the troposphere and the stratosphere?",
+    "options": ["Tropopause", "Stratopause", "Mesopause", "Turbopause"],
+    "answer": "Tropopause"
+  },
+  {
+    "category": "Mycology",
+    "question": "What polysaccharide material forms the primary structural component of fungal cell walls?",
+    "options": ["Chitin", "Cellulose", "Peptidoglycan", "Pectin"],
+    "answer": "Chitin"
+  },
+  {
+    "category": "Nuclear Physics",
+    "question": "What 'magic number' of protons or neutrons yields maximum nuclear binding stability, as seen in Lead-208?",
+    "options": ["82", "50", "28", "126"],
+    "answer": "82"
+  },
+  {
+    "category": "Organic Chemistry",
+    "question": "What type of pericyclic reaction is a thermally allowed [4+2] cycloaddition?",
+    "options": ["Diels-Alder Reaction", "Cope Rearrangement", "Claisen Rearrangement", "Ene Reaction"],
+    "answer": "Diels-Alder Reaction"
+  },
+  {
+    "category": "Marine Biology",
+    "question": "What symbiotic dinoflagellates live within the tissues of reef-building corals, providing them with photosynthetic products?",
+    "options": ["Zooxanthellae", "Cyanobacteria", "Coccolithophores", "Radiolarians"],
+    "answer": "Zooxanthellae"
+  },
+  {
+    "category": "Geophysics",
+    "question": "Which seismic wave type cannot propagate through the Earth's liquid outer core due to its shear nature?",
+    "options": ["S-wave", "P-wave", "Rayleigh wave", "Love wave"],
+    "answer": "S-wave"
+  },
+  {
+    "category": "Developmental Biology",
+    "question": "What group of homeotic genes controls the anterior-posterior body axis patterning during embryonic development?",
+    "options": ["Hox genes", "Proto-oncogenes", "Pax genes", "MADS-box genes"],
+    "answer": "Hox genes"
+  },
+  {
+    "category": "Spectroscopy",
+    "question": "In infrared spectroscopy, which functional group typically produces a strong, broad absorption band between 3200 and 3600 cm⁻¹?",
+    "options": ["Hydroxyl group", "Carbonyl group", "Alkyne group", "Nitrile group"],
+    "answer": "Hydroxyl group"
+  },
+  {
+    "category": "Aerodynamics",
+    "question": "What condition occurs when a fluid flow speed exceeds the local speed of light or sound, specifically creating a sharp change in pressure waves?",
+    "options": ["Shock Wave", "Boundary Layer Separation", "Laminar Stall", "Vortex Shedding"],
+    "answer": "Shock Wave"
+  },
+  {
+    "category": "Ecology",
+    "question": "What ecological rule states that endothermic animal populations in colder climates tend to have shorter limbs and appendages than those in warmer regions?",
+    "options": ["Allen's Rule", "Bergmann's Rule", "Gloger's Rule", "Haldane's Rule"],
+    "answer": "Allen's Rule"
+  },
+  {
+    "category": "Enzymology",
+    "question": "In Michaelis-Menten kinetics, what does the Km constant represent?",
+    "options": ["Substrate concentration at half of Vmax", "The maximum turnover velocity", "The total enzyme concentration", "The dissociation rate of the product"],
+    "answer": "Substrate concentration at half of Vmax"
+  },
+  {
+    "category": "Acoustics",
+    "question": "What unit expresses the ratio of an acoustic intensity to a reference level on a logarithmic scale?",
+    "options": ["Decibel", "Hertz", "Phon", "Sone"],
+    "answer": "Decibel"
+  },
+  {
+    "category": "Virology",
+    "question": "Which protein coat subunit forms the structural geometric shell enclosing a viral genome?",
+    "options": ["Capsomere", "Envelopin", "Tegument", "Peplomer"],
+    "answer": "Capsomere"
+  },
+  {
+    "category": "Thermodynamics",
+    "question": "Which gas law states that at constant temperature and pressure, equal volumes of all gases contain the same number of molecules?",
+    "options": ["Avogadro's Law", "Charles's Law", "Boyle's Law", "Dalton's Law"],
+    "answer": "Avogadro's Law"
+  },
+  {
+    "category": "Limnology",
+    "question": "What term describes the sharp, vertical thermal gradient layer separating the epilimnion and hypolimnion in a stratified lake?",
+    "options": ["Thermocline", "Halocline", "Pycnocline", "Chemocline"],
+    "answer": "Thermocline"
+  },
+  {
+    "category": "Quantum Chemistry",
+    "question": "What rule state that no two electrons in an atom can have the identical set of four quantum numbers?",
+    "options": ["Pauli Exclusion Principle", "Aufbau Principle", "Hund's Rule of Maximum Multiplicity", "Heisenberg Uncertainty Principle"],
+    "answer": "Pauli Exclusion Principle"
+  },
+  {
+    "category": "Phycology",
+    "question": "Which accessory photosynthetic pigments give red algae (Rhodophyta) their distinctive reddish coloration?",
+    "options": ["Phycobilins", "Carotenoids", "Fucoxanthins", "Chlorophyll b"],
+    "answer": "Phycobilins"
+  },
+  {
+    "category": "Orbital Mechanics",
+    "question": "How many stable Lagrangian points exist for a two-body orbital system?",
+    "options": ["5", "3", "4", "2"],
+    "answer": "5"
+  },
+  {
+    "category": "Inorganic Chemistry",
+    "question": "What is the identity of the rarest naturally occurring element in the Earth's crust, with an estimated total mass of less than 30 grams at any given time?",
+    "options": ["Astatine", "Francium", "Promethium", "Polonium"],
+    "answer": "Astatine"
+  },
+  {
+    "category": "Parasitology",
+    "question": "What protozoan parasite is the primary causative agent of the most severe form of malaria, Malaria Tropica?",
+    "options": ["Plasmodium falciparum", "Plasmodium vivax", "Plasmodium ovale", "Plasmodium malariae"],
+    "answer": "Plasmodium falciparum"
+  },
+  {
+    "category": "Relativity",
+    "question": "What term describes the distortion and stretching of spacetime caused by a massive rotating body, also known as frame-dragging?",
+    "options": ["Lense-Thirring Effect", "Geodetic Precession", "Gravitational Redshift", "Shapiro Delay"],
+    "answer": "Lense-Thirring Effect"
+  },
+  {
+    "category": "Polymer Chemistry",
+    "question": "What parameters define the temperature range where an amorphous polymer transitions from a hard, brittle state to a flexible, rubbery state?",
+    "options": ["Glass Transition Temperature", "Melting Point", "Ceiling Temperature", "Flory Temperature"],
+    "answer": "Glass Transition Temperature"
+  },
+  {
+    "category": "Hematology",
+    "question": "Which plasma protein is primarily responsible for maintaining the intravascular oncotic (colloid osmotic) pressure?",
+    "options": ["Albumin", "Fibrinogen", "Alpha-globulin", "Transferrin"],
+    "answer": "Albumin"
+  },
+  {
+    "category": "Crystallography",
+    "question": "Which equation relates the wavelength of X-ray radiation to the diffraction angle and lattice spacing of a crystal system?",
+    "options": ["Bragg's Law", "Snell's Law", "Moseley's Law", "De Broglie Relation"],
+    "answer": "Bragg's Law"
+  },
+  {
+    "category": "Botany",
+    "question": "What type of specialized meristematic tissue is responsible for the secondary growth (widening) in woody plants?",
+    "options": ["Vascular Cambium", "Apical Meristem", "Intercalary Meristem", "Protoderm"],
+    "answer": "Vascular Cambium"
+  },
+  {
+    "category": "Solid State Physics",
+    "question": "What theory explains superconductivity as a macro-quantum state caused by electrons forming bound pairs through phonon interactions?",
+    "options": ["BCS Theory", "Ginzburg-Landau Theory", "Drude Model", "Bloch Theorem"],
+    "answer": "BCS Theory"
+  },
+  {
+    "category": "Electrochemistry",
+    "question": "Which equation relates the reduction potential of an electrochemical reaction to the standard electrode potential, temperature, and activities of chemical species?",
+    "options": ["Nernst Equation", "Arrhenius Equation", "Faraday's Equation", "Gibbs-Helmholtz Equation"],
+    "answer": "Nernst Equation"
+  },
+  {
+    "category": "Histology",
+    "question": "What type of epithelial cells are found lining the urinary bladder, capable of stretching and changing shape dynamically?",
+    "options": ["Transitional Epithelium", "Stratified Squamous Epithelium", "Pseudostratified Columnar Epithelium", "Simple Cuboidal Epithelium"],
+    "answer": "Transitional Epithelium"
+  },
+  {
+    "category": "Seismology",
+    "question": "What mathematical scale measures the total energy released by an earthquake based on its seismic moment, superseding the Richter scale for massive events?",
+    "options": ["Moment Magnitude Scale", "Modified Mercalli Scale", "Medvedev scale", "Shindo Scale"],
+    "answer": "Moment Magnitude Scale"
+  },
+  {
+    "category": "Supramolecular Chemistry",
+    "question": "Which macrocyclic compound class, containing repeating ether units, is famous for its selective binding of alkali metal cations?",
+    "options": ["Crown Ethers", "Cyclodextrins", "Calixarenes", "Cucurbiturils"],
+    "answer": "Crown Ethers"
+  },
+  {
+    "category": "Kinetics",
+    "question": "What states that the rate of a chemical reaction is proportional to the product of the concentrations of the reactants raised to their stoichiometric powers?",
+    "options": ["Law of Mass Action", "Le Chatelier's Principle", "Henry's Law", "Beer-Lambert Law"],
+    "answer": "Law of Mass Action"
+  },
+  {
+    "category": "Entomology",
+    "question": "What term describes the complete metamorphic lifecycle of insects that pass through egg, larva, pupa, and adult stages?",
+    "options": ["Holometabolous", "Hemimetabolous", "Ametabolous", "Heterometabolous"],
+    "answer": "Holometabolous"
+  },
+  {
+    "category": "Optics",
+    "question": "What type of optical aberration causes light rays of different wavelengths to focus at different distinct points along the optical axis?",
+    "options": ["Chromatic Aberration", "Spherical Aberration", "Coma", "Astigmatism"],
+    "answer": "Chromatic Aberration"
+  },
+  {
+    "category": "Genetics",
+    "question": "What phenomenon involves the phenotypic expression of an allele being dependent on whether it was inherited from the maternal or paternal parent?",
+    "options": ["Genomic Imprinting", "Epistasis", "Pleiotropy", "X-inactivation"],
+    "answer": "Genomic Imprinting"
+  },
+  {
+    "category": "Coordination Chemistry",
+    "question": "What effect explains the structural distortion of non-linear molecular systems in degenerate electronic states to lower their overall symmetry and energy?",
+    "options": ["Jahn-Teller Effect", "Nephelauxetic Effect", "Stark Effect", "Zeeman Effect"],
+    "answer": "Jahn-Teller Effect"
+  },
+  {
+    "category": "Embryology",
+    "question": "Which temporary embryonic structure induces the formation of the neural plate and defines the longitudinal axis of the embryo?",
+    "options": ["Notochord", "Neural Crest", "Somite", "Blastocyst"],
+    "answer": "Notochord"
+  },
+  {
+    "category": "Thermodynamics",
+    "question": "What specific point on a phase diagram indicates the conditions of temperature and pressure at which the liquid and gas phases of a substance become identical?",
+    "options": ["Critical Point", "Triple Point", "Sublimation Point", "Eutectic Point"],
+    "answer": "Critical Point"
+  },
+  {
+    "category": "Astronomy",
+    "question": "What class of variable stars serves as crucial cosmic standard candles for measuring intergalactic distances due to a strict period-luminosity relationship?",
+    "options": ["Cepheid Variables", "RR Lyrae Stars", "Mira Variables", "T Tauri Stars"],
+    "answer": "Cepheid Variables"
+  },
+  {
+    "category": "Biochemistry",
+    "question": "What cyclic metabolic pathway converts toxic ammonia into a safer nitrogenous waste product in the liver of mammals?",
+    "options": ["Urea Cycle", "Cori Cycle", "Krebs Cycle", "Glyoxylate Cycle"],
+    "answer": "Urea Cycle"
+  },
+  {
+    "category": "Quantum Mechanics",
+    "question": "What principle limits the simultaneous precision with which certain pairs of physical properties, like position and momentum, can be known?",
+    "options": ["Heisenberg Uncertainty Principle", "Complementarity Principle", "Correspondence Principle", "Superposition Principle"],
+    "answer": "Heisenberg Uncertainty Principle"
+  },
+  {
+    "category": "Organic Chemistry",
+    "question": "Which common reducing agent selectively reduces aldehydes and ketones to alcohols without reducing carboxylic acids or esters?",
+    "options": ["Sodium Borohydride", "Lithium Aluminum Hydride", "Diisobutylaluminum Hydride", "Raney Nickel"],
+    "answer": "Sodium Borohydride"
+  },
+  {
+    "category": "Pathology",
+    "question": "What cellular process describes programmed cell death that avoids triggering an inflammatory response, unlike necrosis?",
+    "options": ["Apoptosis", "Autophagy", "Pyroptosis", "Mitophagy"],
+    "answer": "Apoptosis"
+  },
+  {
+    "category": "Volcanology",
+    "question": "What type of volcanic mudflow or debris flow is triggered by the melting of snow and ice caps during an eruption?",
+    "options": ["Lahar", "Pyroclastic Flow", "Tephra", "Pahoehoe"],
+    "answer": "Lahar"
+  },
+  {
+    "category": "Inorganic Chemistry",
+    "question": "What is the molecular geometry of sulfur hexafluoride (SF6) as predicted by VSEPR theory?",
+    "options": ["Octahedral", "Trigonal Bipyramidal", "Square Pyramidal", "See-saw"],
+    "answer": "Octahedral"
+  },
+  {
+    "category": "Evolutionary Biology",
+    "question": "What term defines a phenotypic trait that evolved for one specific function but was later co-opted for a completely different use?",
+    "options": ["Exaptation", "Adaptation", "Vestigial Trait", "Homology"],
+    "answer": "Exaptation"
+  },
+  {
+    "category": "Statistical Mechanics",
+    "question": "What fundamental physical constant relates the average relative kinetic energy of gas particles to the absolute thermodynamic temperature?",
+    "options": ["Boltzmann Constant", "Universal Gas Constant", "Planck Constant", "Avogadro Constant"],
+    "answer": "Boltzmann Constant"
+  },
+  {
+    "category": "Cell Biology",
+    "question": "Which motor protein travels retrogradely along microtubule tracks, moving cargo inward toward the cell center?",
+    "options": ["Dynein", "Kinesin", "Myosin", "Actin"],
+    "answer": "Dynein"
+  },
+  {
+    "category": "Geology",
+    "question": "What structural feature describes an unconformity where younger sedimentary layers are deposited over tilted or folded older sedimentary rocks?",
+    "options": ["Angular Unconformity", "Disconformity", "Nonconformity", "Paraconformity"],
+    "answer": "Angular Unconformity"
+  },
+  {
+    "category": "Analytical Chemistry",
+    "question": "In mass spectrometry, what rule helps predict the ionization behavior and fragmentation patterns of organic molecules with odd numbers of nitrogens?",
+    "options": ["Nitrogen Rule", "Stevenson's Rule", "McLafferty Rearrangement", "Rule of 13"],
+    "answer": "Nitrogen Rule"
+  },
+  {
+    "category": "Particle Physics",
+    "question": "What hypothetical scalar elementary particle is responsible for granting mass to leptons and quarks via spontaneous electroweak symmetry breaking?",
+    "options": ["Higgs Boson", "Graviton", "Axion", "Photino"],
+    "answer": "Higgs Boson"
+  },
+  {
+    "category": "Immunology",
+    "question": "Which immune system cells are primary targets of human immunodeficiency virus (HIV) due to the presence of CD4 surface receptors?",
+    "options": ["Helper T cells", "Cytotoxic T cells", "B cells", "Natural Killer cells"],
+    "answer": "Helper T cells"
+  },
+  {
+    "category": "Physical Chemistry",
+    "question": "Which thermodynamic equation relates the rate constant of a chemical reaction to absolute temperature and activation energy?",
+    "options": ["Arrhenius Equation", "Eyring Equation", "Gibbs Equation", "Van 't Hoff Equation"],
+    "answer": "Arrhenius Equation"
+  },
+  {
+    "category": "Neurology",
+    "question": "What insulating lipid structure forms around myelinated nerve axons to increase the velocity of action potential propagation?",
+    "options": ["Myelin Sheath", "Node of Ranvier", "Axolemma", "Schwann Matrix"],
+    "answer": "Myelin Sheath"
+  },
+  {
+    "category": "Astrophysics",
+    "question": "What theoretical limit caps the maximum stable mass of a non-rotating white dwarf star at roughly 1.4 solar masses?",
+    "options": ["Chandrasekhar Limit", "Tolman-Oppenheimer-Volkoff Limit", "Eddington Limit", "Jeans Mass"],
+    "answer": "Chandrasekhar Limit"
+  },
+  {
+    "category": "Organic Chemistry",
+    "question": "What name is given to the mechanism of a nucleophilic substitution reaction that exhibits second-order kinetic behavior?",
+    "options": ["SN2 Mechanism", "SN1 Mechanism", "E2 Mechanism", "E1 Mechanism"],
+    "answer": "SN2 Mechanism"
+  },
+  {
+    "category": "Plant Anatomy",
+    "question": "What cellular structures form microscopic channels through plant cell walls, allowing direct transport and communication between adjacent cells?",
+    "options": ["Plasmodesmata", "Gap Junctions", "Desmosomes", "Tight Junctions"],
+    "answer": "Plasmodesmata"
+  },
+  {
+    "category": "Meteorology",
+    "question": "What apparent force, caused by the rotation of the Earth, deflects moving air masses to the right in the Northern Hemisphere?",
+    "options": ["Coriolis Force", "Centrifugal Force", "Geostrophic Force", "Pressure Gradient Force"],
+    "answer": "Coriolis Force"
+  },
+  {
+    "category": "Inorganic Chemistry",
+    "question": "What is the structural geometry of the xenontetrafluoride (XeF4) molecule based on electron pair distributions?",
+    "options": ["Square Planar", "Tetrahedral", "Seesaw", "Octahedral"],
+    "answer": "Square Planar"
+  },
+  {
+    "category": "Ecology",
+    "question": "What type of survivorship curve characterizes species that produce massive numbers of offspring but offer little to no parental care, leading to high early-life mortality?",
+    "options": ["Type III Curve", "Type I Curve", "Type II Curve", "Sigmoidal Curve"],
+    "answer": "Type III Curve"
+  },
+  {
+    "category": "Fluid Dynamics",
+    "question": "Which fundamental principle states that an increase in the speed of a fluid occurs simultaneously with a decrease in static pressure?",
+    "options": ["Bernoulli's Principle", "Pascal's Principle", "Archimedes' Principle", "Torricelli's Law"],
+    "answer": "Bernoulli's Principle"
+  },
+  {
+    "category": "Biochemistry",
+    "question": "What critical cofactor, derived from vitamin B3 (niacin), acts as an electron carrier in cellular respiration metabolic pathways?",
+    "options": ["NAD+", "FAD", "Coenzyme A", "Pyridoxal Phosphate"],
+    "answer": "NAD+"
+  },
+  {
+    "category": "Oceanography",
+    "question": "What global ocean circulation pattern is driven by deep density gradients controlled by variations in temperature and salinity?",
+    "options": ["Thermohaline Circulation", "Ekman Transport", "Geostrophic Current", "Gyre Circulation"],
+    "answer": "Thermohaline Circulation"
+  },
+  {
+    "category": "Condensed Matter Physics",
+    "question": "What specific temperature marks the loss of a material's permanent ferromagnetic alignment properties, turning it paramagnetic?",
+    "options": ["Curie Temperature", "Néel Temperature", "Debye Temperature", "Fermi Temperature"],
+    "answer": "Curie Temperature"
+  },
+  {
+    "category": "Genetics",
+    "question": "What enzyme breaks the hydrogen bonds holding the two strands of a DNA double helix together during replication initiation?",
+    "options": ["Helicase", "Topoisomerase", "Polymerase", "Ligase"],
+    "answer": "Helicase"
+  },
+  {
+    "category": "Thermodynamics",
+    "question": "Which state function describes the total measure of thermal energy dispersal or disorder within an isolated system?",
+    "options": ["Entropy", "Enthalpy", "Gibbs Energy", "Helmholtz Energy"],
+    "answer": "Entropy"
+  },
+  {
+    "category": "Toxicology",
+    "question": "What heavy metal poisoning causes the inhibiting inactivation of lipoic acid, disrupting the pyruvate dehydrogenase complex?",
+    "options": ["Arsenic", "Lead", "Mercury", "Cadmium"],
+    "answer": "Arsenic"
+  },
+  {
+    "category": "Spectroscopy",
+    "question": "What optical scattering effect involves inelastic interactions of photons with vibrational modes, shifting the scattered light frequency?",
+    "options": ["Raman Scattering", "Rayleigh Scattering", "Mie Scattering", "Tyndall Effect"],
+    "answer": "Raman Scattering"
+  },
+  {
+    "category": "Neurobiology",
+    "question": "What protein complex functions to fuse synaptic vesicles with the presynaptic plasma membrane for neurotransmitter exocytosis?",
+    "options": ["SNARE Complex", "Clathrin Matrix", "Calmodulin Ring", "G-protein Complex"],
+    "answer": "SNARE Complex"
+  },
+  {
+    "category": "Physical Chemistry",
+    "question": "Which equation models the non-ideal behavior of real gases by introducing parameters for molecular volume and intermolecular attractive forces?",
+    "options": ["Van der Waals Equation", "Ideal Gas Equation", "Redlich-Kwong Equation", "Virial Equation"],
+    "answer": "Van der Waals Equation"
+  },
+  {
+    "category": "Cell Biology",
+    "question": "Which cellular junction contains cadherins that anchor intermediate filaments, providing high mechanical tensile strength to epithelial sheets?",
+    "options": ["Desmosome", "Tight Junction", "Gap Junction", "Adherens Junction"],
+    "answer": "Desmosome"
+  }
+]
+
