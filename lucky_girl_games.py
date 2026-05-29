@@ -111,25 +111,25 @@ st.divider()
 
 # ── Route to game ─────────────────────────────────────────────────────────
 if game_key == "lottery":
-    from games import lottery
+    import lottery
     lottery.run()
 
 elif game_key == "trivia":
-    from games import trivia
+    import trivia
     trivia.run(BASE_DIR)
 
 elif game_key == "hangman":
-    from games import hangman
+    import hangman
     hangman.run()
 
 elif game_key == "dice_duel":
-    from games import dice_duel
+    import dice_duel
     dice_duel.run()
 
 elif game_key == "snake":
-    from games import snake
+    import snake
     snake.run()
 
 elif game_key == "ludo":
-    from games import ludo
+    import ludo
     ludo.run()
